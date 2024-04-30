@@ -1,0 +1,9 @@
+[package]
+name = "prismoidal"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+delaunator = "1.0.2"
+nalgebra = "0.32.5"
+plotters = "0.3.5"
